@@ -31,7 +31,7 @@
 
 header {
     
-    max-height: 200px;
+    max-height: 250px;
     color: white;
     text-align: center;
     background-image: linear-gradient(to top, var(--cor5), var(--cor3));
