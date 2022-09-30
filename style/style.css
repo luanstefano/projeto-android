@@ -29,10 +29,6 @@
     --fonte2: 'Android', sans-serif;
 }
 
-a:-webkit-any-link {
-    color: white;
-}
-
 header {
     
     height: 150px;
